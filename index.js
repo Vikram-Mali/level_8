@@ -73,3 +73,4 @@ const saveUserForm = (event) => {
 let form = document.getElementById("user_form");
 form.addEventListener("submit", saveUserForm, true);
 displayEntries();
+
